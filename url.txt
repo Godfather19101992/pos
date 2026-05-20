@@ -1,2 +1,2 @@
 https://detached-corsage-monoxide.ngrok-free.dev
-login
+logout
